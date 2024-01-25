@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="834px" height="673px" viewBox="0 0 834 673" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <title>Slice</title>
+    <defs>
+        <rect id="path-1" x="10" y="92" width="202" height="98" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="202" height="98" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="10" y="206" width="202" height="98" rx="8"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="202" height="98" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="621" y="92" width="202" height="98" rx="8"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="202" height="98" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="621" y="206" width="202" height="98" rx="8"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="202" height="98" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#D8D8D8" x="0" y="46" width="222" height="379"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" x="230" y="46" width="373" height="379"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" x="611" y="46" width="222" height="379"></rect>
+        <text id="temporal-resolution" font-family="Arial-ItalicMT, Arial" font-size="16" font-style="italic" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="386.046441" y="261.57244">temporal </tspan>
+            <tspan x="382.483941" y="278.57244">resolution</tspan>
+        </text>
+        <rect id="Rectangle" fill="#6D7278" x="0" y="46" width="222" height="30"></rect>
+        <rect id="Rectangle" fill="#6D7278" x="611" y="46" width="222" height="30"></rect>
+        <text id="Initialisation" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" fill="#FFFFFF">
+            <tspan x="52.6601562" y="68">Initialisation</tspan>
+        </text>
+        <rect id="Rectangle" fill="#6D7278" x="230" y="46" width="373" height="30"></rect>
+        <text id="Submodels" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" fill="#FFFFFF">
+            <tspan x="362.103516" y="68">Submodels</tspan>
+        </text>
+        <text id="Observations" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" fill="#FFFFFF">
+            <tspan x="658.088867" y="68">Observations</tspan>
+        </text>
+        <use id="Rectangle" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="6,6" xlink:href="#path-1"></use>
+        <use id="Rectangle" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="4" stroke-dasharray="6,6" xlink:href="#path-3"></use>
+        <use id="Rectangle" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="4" stroke-dasharray="6,6" xlink:href="#path-5"></use>
+        <use id="Rectangle" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="4" stroke-dasharray="6,6" xlink:href="#path-7"></use>
+        <text id="temporal-extent-/-st" font-family="Arial-ItalicMT, Arial" font-size="16" font-style="italic" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="546.585504" y="391.57244">temporal extent / </tspan>
+            <tspan x="556.804254" y="408.57244">stop condition</tspan>
+        </text>
+        <text id="spatial-extent-&amp;-res" font-family="Arial-ItalicMT, Arial" font-size="16" font-style="italic" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="21.0620662" y="376.57244">spatial extent &amp; resolution</tspan>
+        </text>
+        <text id="state-variable-1-sta" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="30.6714412" y="135.57244">state variable 1</tspan>
+            <tspan x="30.6714412" y="157.57244">state variable 2</tspan>
+            <tspan x="30.6714412" y="179.57244">…</tspan>
+        </text>
+        <text id="state-variable-1-sta" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="30.6714412" y="249.57244">state variable 1</tspan>
+            <tspan x="30.6714412" y="271.57244">state variable 2</tspan>
+            <tspan x="30.6714412" y="293.57244">…</tspan>
+        </text>
+        <text id="Entity-1" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="24" y="115">Entity 1</tspan>
+        </text>
+        <text id="Output-pattern-1" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="632" y="115">Output pattern 1</tspan>
+        </text>
+        <text id="Output-pattern-2" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="630" y="232">Output pattern 2</tspan>
+        </text>
+        <text id="…" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="630" y="332">… </tspan>
+        </text>
+        <text id="…" font-family="ArialMT, Arial" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="538" y="327">… </tspan>
+        </text>
+        <text id="…" font-family="ArialMT, Arial" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="548" y="204">… </tspan>
+        </text>
+        <text id="Entity-2" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="24" y="232">Entity 2</tspan>
+        </text>
+        <text id="Submodel-1" font-family="ArialMT, Arial" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="237" y="327">Submodel 1</tspan>
+        </text>
+        <text id="Submodel-2" font-family="ArialMT, Arial" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="237" y="206">Submodel 2</tspan>
+        </text>
+        <text id="Submodel-3" font-family="ArialMT, Arial" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.85">
+            <tspan x="373" y="128">Submodel 3</tspan>
+        </text>
+        <text id="…" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.85">
+            <tspan x="24" y="332">…</tspan>
+        </text>
+        <rect id="Rectangle" fill="#EEEEEE" x="0" y="0" width="833" height="39"></rect>
+        <rect id="Rectangle" fill="#EEEEEE" x="0" y="553" width="833" height="120"></rect>
+        <text id="Purpose:" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" fill="#6D7278">
+            <tspan x="12.6601562" y="26">Purpose: </tspan>
+        </text>
+        <rect id="Rectangle" fill="#EEEEEE" x="0" y="435" width="222" height="111"></rect>
+        <rect id="Rectangle" fill="#EEEEEE" x="611" y="435" width="222" height="111"></rect>
+        <rect id="Rectangle" fill="#EEEEEE" x="230" y="435" width="373" height="111"></rect>
+        <text id="Scenarios:" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" fill="#6D7278">
+            <tspan x="10.8671875" y="579">Scenarios: </tspan>
+        </text>
+        <text id="Initialisation-patte" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#6D7278">
+            <tspan x="7.5" y="459">Initialisation patterns </tspan>
+        </text>
+        <text id="Submodel-patterns" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#6D7278">
+            <tspan x="242.5" y="459">Submodel patterns </tspan>
+        </text>
+        <text id="Observation-patterns" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#6D7278">
+            <tspan x="622.5" y="459">Observation patterns </tspan>
+        </text>
+        <g id="Loop" transform="translate(0.000000, 163.000000)" fill="#000000">
+            <path d="M417,0 C473.333044,0 519,46.3385284 519,103.5 C519,118.942627 515.666982,133.595338 509.691079,146.757852 L513.717268,143.8611 C514.365442,143.394911 515.268806,143.542486 515.734968,144.190702 C516.201135,144.83891 516.05352,145.742261 515.405352,146.208441 L506.994463,152.259628 C499.000642,167.419036 487.395461,180.323206 473.345391,189.788513 L472.764458,192.786048 L472.325096,198.94334 L472.613451,205.016225 L473.601113,210.96854 L475.260218,216.763822 L477.562686,222.365383 L477.751831,222.71444 L477.857193,218.028501 C477.874959,217.230287 478.536476,216.597641 479.334707,216.615454 C480.132935,216.633258 480.765547,217.294798 480.747777,218.093003 L480.529831,227.80844 L483.985163,232.839604 L488.048573,237.638248 L492.642035,242.095283 L497.73736,246.17387 L503.305699,249.837366 L509.319082,253.049332 L515.749536,255.773484 L522.569417,257.973666 L529.752062,259.613675 C531.457523,260.0651 533.847295,260.398357 536.921378,260.613446 C539.995461,260.828535 543.185314,260.885675 546.490937,260.784868 L546.540465,260.778954 L546.673393,260.772441 L607.941,260.864 L603.213503,257.992173 C602.531112,257.57768 602.313984,256.688467 602.728526,256.006084 C603.143059,255.3237 604.032275,255.106613 604.714656,255.521104 L613.524,260.872 L831.501951,261.200001 C832.219921,261.201079 832.8,261.783982 832.8,262.501951 C832.8,263.175048 832.286608,263.727897 831.630976,263.793486 L831.498049,263.799999 L612.823,263.472 L604.489644,268.136284 C603.792917,268.526223 602.912009,268.277476 602.522075,267.58078 C602.132131,266.884082 602.380843,266.003086 603.07757,265.613148 L606.931201,263.462432 L547.017,263.373 L547.017035,263.384972 C542.746566,263.432061 539.267923,263.359753 536.581104,263.168047 C533.894286,262.976341 531.33268,262.617675 528.896286,262.092048 L521.403213,260.366493 L514.289187,258.056596 L507.584474,255.201154 L501.318685,251.838992 L495.521213,248.008828 L490.220904,243.749227 L485.446496,239.098507 L481.226835,234.094868 L477.728831,228.97944 L469.710205,224.205727 C469.024145,223.797313 468.799112,222.910051 469.207501,222.22401 C469.615887,221.53796 470.503208,221.312853 471.189268,221.721267 L475.008831,224.00044 L474.566047,223.180801 L472.18294,217.346356 L470.469966,211.311067 L469.456409,205.113206 L469.171441,198.791329 L469.64391,192.384261 L469.692279,192.137987 C454.313418,201.571284 436.281493,207 417,207 C397.807784,207 379.853593,201.62144 364.521515,192.268765 L364.544565,192.384261 L365.017035,198.791329 L364.732067,205.113206 L363.718509,211.311067 L362.005535,217.346356 L359.622429,223.180801 L359.162441,224.03044 L359.8038,232.686069 C359.862755,233.482313 359.265025,234.175563 358.468811,234.234526 C357.672592,234.293499 356.979248,233.695764 356.920293,232.89952 L356.617234,228.738766 L356.598145,228.776306 L352.961641,234.094868 L348.74198,239.098507 L343.967572,243.749227 L338.667263,248.008828 L332.869791,251.838992 L326.604002,255.201154 L319.899289,258.056596 L312.785262,260.366493 L305.29219,262.092048 C303.191232,262.577556 300.516201,262.936222 297.267098,263.168047 C294.017995,263.399872 290.652776,263.47218 287.171441,263.384972 L232.842,263.461 L224.489644,268.136284 C223.792917,268.526223 222.912009,268.277476 222.522075,267.58078 C222.132131,266.884082 222.380843,266.003086 223.07757,265.613148 L226.918425,263.469562 L1.5019024,263.8 C0.783932996,263.801049 0.19999997,263.219872 0.19999997,262.501902 C0.19999997,261.828806 0.709755338,261.27444 1.36519011,261.206908 L1.4980976,261.200001 L227.948,260.868 L223.213503,257.992173 C222.531112,257.57768 222.313984,256.688467 222.728526,256.006084 C223.143059,255.3237 224.032275,255.106613 224.714656,255.521104 L233.504,260.86 L287.985,260.78 C291.522308,260.846482 294.542936,260.790964 297.046883,260.613446 C299.550829,260.435928 302.014006,260.102671 304.436413,259.613675 L311.619059,257.973666 L318.438939,255.773484 L324.869393,253.049332 L330.882776,249.837366 L336.451116,246.17387 L341.54644,242.095283 L346.139903,237.638248 L350.203312,232.839604 L353.708041,227.736304 L354.225441,226.78244 L350.070792,229.555559 C349.406743,229.998843 348.50908,229.81983 348.065825,229.15574 C347.622563,228.491658 347.801614,227.59401 348.465658,227.150734 L356.999441,221.45344 L358.928258,216.763822 L360.587363,210.96854 L361.575025,205.016225 L361.863379,198.94334 L361.424018,192.786048 L360.870613,189.933631 C333.233729,171.417388 315,139.619366 315,103.5 C315,86.6375656 318.974073,70.7169755 326.023695,56.6499668 L323.119528,58.6663651 C322.463316,59.1211709 321.562665,58.957852 321.107887,58.3015989 C320.653104,57.645354 320.816462,56.7447174 321.472668,56.2899199 L329.061374,51.027758 C346.796721,20.4902668 379.540161,0 417,0 Z M417,3 C380.9047,3 349.314164,22.6126336 332.016201,51.9188549 L332.905688,61.6265342 C332.97853,62.4216283 332.392991,63.1252036 331.597927,63.1980544 C330.802858,63.2709135 330.099188,62.6853706 330.026346,61.8902765 L329.529409,56.3936549 L329.529409,56.3936549 C322.16914,70.4421274 318,86.4760051 318,103.5 C318,159.014342 362.333692,204 417,204 C455.187413,204 488.332729,182.04795 504.84566,149.889544 L503.880936,141.072173 C503.794229,140.278472 504.3674,139.564784 505.161071,139.478069 C505.954748,139.391345 506.668529,139.964518 506.755237,140.75822 L507.208818,144.956751 L507.208818,144.956751 C512.856336,132.318995 516,118.282787 516,103.5 C516,47.9856584 471.666308,3 417,3 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
